@@ -1,14 +1,21 @@
-### Criando uma nova branch pelo terminal
+# Criando uma nova branch pelo terminal
 
-Comando necessário para a criação de uma nova branch via terminal:
+### Comando necessário para a criação de uma nova branch via terminal:
 
-git checkout -b(nome da nova branch)
+- git checkout -b(nome da nova branch) 
 
-git branch -a vai listar todas as branches
+### Comandos complementares
+- git status para verificar a situação
 
-git branch para saber em que branch voce está
+- git add . para adicionar modificações caso necessario 
 
-git checkout <nome da branch> para ir até o branch que você quer acessar
+- git commit -m 'mensagem' realiza o commit
+
+- git branch -a vai listar todas as branches
+
+- git branch para saber em que branch voce está
+
+- git checkout <nome da branch> alternando para essa nova branch que eu gostaria de acessar
 
 
 
