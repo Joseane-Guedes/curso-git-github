@@ -1,3 +1,8 @@
-### Usuária no github
+## Usuária no github
 
-Perfil da aluna [bio](https://github.com/Joseane-Guedes)
+##### Informe  seu nome e usuario do github, vamos fortalecer nossa rede!!!
+Corrigido. 
+
+Perfil da aluna [Joseane Guedes](https://github.com/Joseane-Guedes)
+
+
