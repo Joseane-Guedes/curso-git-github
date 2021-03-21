@@ -9,7 +9,7 @@
 ---------------------------------------------
 - git add . para adicionar modificações, caso necessario 
 
-- git commit -m 'mensagem' realiza o commit
+- git commit -m "mensagem" realiza o commit
 ---------------------------------------------
 - git branch -a vai listar todas as branches
 
