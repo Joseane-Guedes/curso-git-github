@@ -6,11 +6,11 @@
 
 ### Comandos complementares
 - git status para verificar a situação
-
-- git add . para adicionar modificações caso necessario 
+---------------------------------------------
+- git add . para adicionar modificações, caso necessario 
 
 - git commit -m 'mensagem' realiza o commit
-
+---------------------------------------------
 - git branch -a vai listar todas as branches
 
 - git branch para saber em que branch voce está
